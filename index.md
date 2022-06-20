@@ -19,7 +19,9 @@ NaijaCoder is an intensive summer program in Abuja, Nigeria aimed at high school
 
 ### Summer 2023 (Planning in Progress)
 
-* [Syllabus]: https://naijacoderorg.github.io/NaijaCoder/summer2023/files/syllabus.pdf
+* [Syllabus]
+
+[Syllabus]: https://naijacoderorg.github.io/NaijaCoder/summer2023/files/syllabus.pdf
 
 ### Contact
 
