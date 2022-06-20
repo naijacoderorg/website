@@ -20,3 +20,5 @@ NaijaCoder is an intensive summer program in Abuja, Nigeria aimed at high school
 ### Contact
 
 For inquiries, send email to [contact@naijacoder.org](mailto:contact@naijacoder.org).
+
+Follow us on [Twitter](https://twitter.com/naijacoderorg).
