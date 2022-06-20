@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# NaijaCoder Program
 
-You can use the [editor on GitHub](https://github.com/naijacoderorg/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Overview
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+NaijaCoder is an intensive summer program in Abuja, Nigeria aimed at high schoolers. The program provides free instruction on the basics of algorithms, statistics, and programming. Our first program will run in Summer 2022.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Summer 2022
 
-```markdown
-Syntax highlighted code block
+* [Syllabus]
+* [National Mathematical Center]
+* [addiscoder]
+* [Other Resources]
 
-# Header 1
-## Header 2
-### Header 3
+[Syllabus]: https://naijacoderorg.github.io/website/summer2022/files/syllabus.pdf
+[National Mathematical Center]: https://nmc.edu.ng/
+[addiscoder]: https://www.addiscoder.com/
+[Other Resources]: https://naijacoderorg.github.io/website/summer2022/files/resources.pdf
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/naijacoderorg/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For inquiries, send email to [contact@naijacoder.org](contact@naijacoder.org).
