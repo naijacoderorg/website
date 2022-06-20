@@ -12,8 +12,8 @@ NaijaCoder is an intensive summer program in Abuja, Nigeria aimed at high school
 * [Other Resources]
 
 [Syllabus]: https://naijacoderorg.github.io/website/summer2022/files/syllabus.pdf
-[[Nigerian Mathematical Society]: https://www.nigerianmathematicalsociety.org/
-[National Mathematical Center]: https://nmc.edu.ng/
+[Nigerian Mathematical Society]: https://www.nigerianmathematicalsociety.org/
+[National Mathematical Center, Abuja]: https://nmc.edu.ng/
 [addiscoder]: https://www.addiscoder.com/
 [Other Resources]: https://naijacoderorg.github.io/website/summer2022/files/resources.pdf
 
