@@ -1,5 +1,3 @@
-# NaijaCoder Program
-
 ## Overview
 
 
