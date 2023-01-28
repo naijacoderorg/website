@@ -26,9 +26,16 @@ NaijaCoder is an intensive summer program in Abuja, Nigeria aimed at high school
 
 For inquiries, send email to [contact@naijacoder.org](mailto:contact@naijacoder.org).
 
-<!-- Follow us on [Twitter](https://twitter.com/naijacoderorg). -->
+Follow us on [Twitter](https://twitter.com/naijacoderorg).
 
 ### Legal
 
 NaijaCoder, Inc. is a registered tax-exempt 501(c)(3).
 EIN: 88-3205893.
+
+### Team
+* [Daniel Alabi](https://www.linkedin.com/in/alabidan/)
+* [Tolu Alabi](https://www.linkedin.com/in/tolu-alabi-08697525/)
+* [Olalekan Afuye](https://www.linkedin.com/in/olalekan-afuye/)
+* [Julius Adebayo](https://www.linkedin.com/in/juliusadebayo/)
+* [Philip Abel](https://www.linkedin.com/in/abelphilip/)
