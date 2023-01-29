@@ -33,6 +33,8 @@ Follow us on [Twitter](https://twitter.com/naijacoderorg).
 NaijaCoder, Inc. is a registered tax-exempt 501(c)(3).
 EIN: 88-3205893.
 
+Donations accepted here: [gofundme](https://www.gofundme.com/f/help-launch-a-coding-project-in-nigeria).
+
 ### Team
 * [Daniel Alabi](https://www.linkedin.com/in/alabidan/)
 * [Tolu Alabi](https://www.linkedin.com/in/tolu-alabi-08697525/)
