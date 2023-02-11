@@ -1,7 +1,11 @@
 ## Overview
 
 
-NaijaCoder is an intensive summer program in Abuja, Nigeria aimed at high schoolers. The program provides free instruction on the basics of algorithms, statistics, and programming. Our first program will run in Summer 2022.
+NaijaCoder is an intensive summer program in Abuja, Nigeria aimed at high schoolers. The program provides free instruction on the basics of algorithms, statistics, and programming.
+
+If you are a student who wishes to participate in the program in August 2023, please fill out this [application form].
+
+[application form]: https://docs.google.com/forms/d/e/1FAIpQLSeQ4PVc_aLutDv3DeuvkG5QjgxAOYFPOoTmw4nKHHF6uoJWjg/viewform 
 
 ### Summer 2023 (Planning in Progress)
 
@@ -9,6 +13,7 @@ NaijaCoder is an intensive summer program in Abuja, Nigeria aimed at high school
 * [Additional Resources]
 
 [Additional Resources]: https://github.com/naijacoderorg/lectures
+
 
 ### Summer 2022
 
@@ -41,3 +46,4 @@ Donations accepted here: [gofundme](https://www.gofundme.com/f/help-launch-a-cod
 * [Olalekan Afuye](https://www.linkedin.com/in/olalekan-afuye/)
 * [Julius Adebayo](https://www.linkedin.com/in/juliusadebayo/)
 * [Philip Abel](https://www.linkedin.com/in/abelphilip/)
+* [Eric Mibuari](https://www.linkedin.com/in/eric-mibuari-bb24044/)
