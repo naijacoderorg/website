@@ -31,12 +31,12 @@ If you are a student who wishes to participate in the program in August 2023, pl
 
 For inquiries, send email to [contact@naijacoder.org](mailto:contact@naijacoder.org).
 
-Follow us on [Twitter](https://twitter.com/naijacoderorg).
+### Social Media
 
-### Legal
+* [Twitter](https://twitter.com/naijacoderorg)
+* [Instagram](https://www.instagram.com/naijacoder/)
 
-NaijaCoder, Inc. is a registered tax-exempt 501(c)(3).
-EIN: 88-3205893.
+### Funding
 
 Donations accepted here: [gofundme](https://www.gofundme.com/f/help-launch-a-coding-project-in-nigeria).
 
@@ -47,3 +47,9 @@ Donations accepted here: [gofundme](https://www.gofundme.com/f/help-launch-a-cod
 * [Julius Adebayo](https://www.linkedin.com/in/juliusadebayo/) (Treasurer)
 * [Tolu Alabi](https://www.linkedin.com/in/tolu-alabi-08697525/)
 * [Eric Mibuari](https://www.linkedin.com/in/eric-mibuari-bb24044/)
+
+
+### Legal
+
+NaijaCoder, Inc. is a registered tax-exempt 501(c)(3).
+EIN: 88-3205893.
