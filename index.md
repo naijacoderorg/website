@@ -41,9 +41,9 @@ EIN: 88-3205893.
 Donations accepted here: [gofundme](https://www.gofundme.com/f/help-launch-a-coding-project-in-nigeria).
 
 ### Team
-* [Daniel Alabi](https://www.linkedin.com/in/alabidan/)
-* [Tolu Alabi](https://www.linkedin.com/in/tolu-alabi-08697525/)
-* [Olalekan Afuye](https://www.linkedin.com/in/olalekan-afuye/)
-* [Julius Adebayo](https://www.linkedin.com/in/juliusadebayo/)
-* [Philip Abel](https://www.linkedin.com/in/abelphilip/)
+* [Daniel Alabi](https://www.linkedin.com/in/alabidan/) (President, Instructor)
+* [Olalekan Afuye](https://www.linkedin.com/in/olalekan-afuye/) (Vice President, Instructor)
+* [Tolu Alabi](https://www.linkedin.com/in/tolu-alabi-08697525/) (Vice President)
+* [Philip Abel](https://www.linkedin.com/in/abelphilip/) (Secretary)
+* [Julius Adebayo](https://www.linkedin.com/in/juliusadebayo/) (Treasurer)
 * [Eric Mibuari](https://www.linkedin.com/in/eric-mibuari-bb24044/)
