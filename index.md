@@ -27,18 +27,20 @@ If you are a student who wishes to participate in the program in August 2023, pl
 [National Mathematical Center, Abuja]: https://nmc.edu.ng/
 [addiscoder]: https://www.addiscoder.com/
 
+
+### Funding
+
+Donations accepted here: [gofundme](https://www.gofundme.com/f/help-launch-a-coding-project-in-nigeria).
+
 ### Contact
 
 For inquiries, send email to [contact@naijacoder.org](mailto:contact@naijacoder.org).
 
 ### Social Media
 
-* [Twitter](https://twitter.com/naijacoderorg)
-* [Instagram](https://www.instagram.com/naijacoder/)
-
-### Funding
-
-Donations accepted here: [gofundme](https://www.gofundme.com/f/help-launch-a-coding-project-in-nigeria).
+* [Twitter](https://twitter.com/naijacoderorg) (**new!**)
+* [Instagram](https://www.instagram.com/naijacoder/) (**new!**)
+* [Facebook](https://www.facebook.com/people/NaijaCoder/100089748270716/) (**new!**)
 
 ### Team
 * [Daniel Alabi](https://www.linkedin.com/in/alabidan/) (President, Instructor)
