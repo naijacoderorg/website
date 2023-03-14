@@ -40,6 +40,7 @@ For inquiries, send email to [contact@naijacoder.org](mailto:contact@naijacoder.
 
 * [Twitter](https://twitter.com/naijacoderorg) (**new!**)
 * [Instagram](https://www.instagram.com/naijacoder/) (**new!**)
+* [LinkedIn](https://www.linkedin.com/company/naijacoder/) (**new!**)
 * [Facebook](https://www.facebook.com/people/NaijaCoder/100089748270716/) (**new!**)
 
 ### Team
