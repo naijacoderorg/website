@@ -47,8 +47,8 @@ For inquiries, send email to [contact@naijacoder.org](mailto:contact@naijacoder.
 ### Team
 * [Daniel Alabi](https://www.linkedin.com/in/alabidan/) (President, Instructor)
 * [Olalekan Afuye](https://www.linkedin.com/in/olalekan-afuye/) (Vice President, Instructor)
-* [Philip Abel](https://www.linkedin.com/in/abelphilip/) (Secretary)
-* Alida Monaco
+* [Philip Abel](https://www.linkedin.com/in/abelphilip/) (Secretary, Instructor)
+* Alida Monaco (Instructor)
 * Ekene Ezeunala 
 * Atinuke Adegbile
 * Akachukwu Obi
