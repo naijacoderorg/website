@@ -50,7 +50,7 @@ For inquiries, send email to [contact@naijacoder.org](mailto:contact@naijacoder.
 * [Philip Abel](https://www.linkedin.com/in/abelphilip/) (Secretary, Instructor)
 * [Ekene Ezeunala](https://www.linkedin.com/in/ekene-ezeunala/) (University Representative)
 * [Alida Monaco](https://www.linkedin.com/in/alida-monaco-4699a482) (Instructor)
-* Atinuke Adegbile
+* Atinuke Adegbile (Local Nigerian Representative)
 * Akachukwu Obi
 * [Tolu Alabi](https://www.linkedin.com/in/tolu-alabi-08697525/)
 * [Eric Mibuari](https://www.linkedin.com/in/eric-mibuari-bb24044/)
