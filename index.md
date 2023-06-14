@@ -49,7 +49,6 @@ For inquiries, send email to [contact@naijacoder.org](mailto:contact@naijacoder.
 * [Philip Abel](https://www.linkedin.com/in/abelphilip/) (Secretary)
 * Ekene Ezeunala 
 * Atinuke Adegbile
-* [Julius Adebayo](https://www.linkedin.com/in/juliusadebayo/) (Treasurer)
 * [Tolu Alabi](https://www.linkedin.com/in/tolu-alabi-08697525/)
 * [Eric Mibuari](https://www.linkedin.com/in/eric-mibuari-bb24044/)
 
