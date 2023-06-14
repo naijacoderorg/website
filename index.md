@@ -1,7 +1,7 @@
 ## Overview
 
 
-NaijaCoder is an intensive summer program in Abuja, Nigeria aimed at high schoolers. The program provides free instruction on the basics of algorithms, statistics, and programming.
+NaijaCoder is a research and education institute based in the U.S. and Nigeria. One of our major activities is an intensive summer program in Abuja, Nigeria aimed at high schoolers. The program provides free instruction on the basics of algorithms, statistics, and programming.
 
 If you are a student who wishes to participate in the program in August 2023, please fill out this [application form].
 
