@@ -48,8 +48,8 @@ For inquiries, send email to [contact@naijacoder.org](mailto:contact@naijacoder.
 * [Daniel Alabi](https://www.linkedin.com/in/alabidan/) (President, Instructor)
 * [Olalekan Afuye](https://www.linkedin.com/in/olalekan-afuye/) (Vice President, Instructor)
 * [Philip Abel](https://www.linkedin.com/in/abelphilip/) (Secretary, Instructor)
+* [Ekene Ezeunala](https://www.linkedin.com/in/ekene-ezeunala/) (University Representative)
 * Alida Monaco (Instructor)
-* [Ekene Ezeunala] (https://www.linkedin.com/in/ekene-ezeunala/) (University Representative)
 * Atinuke Adegbile
 * Akachukwu Obi
 * [Tolu Alabi](https://www.linkedin.com/in/tolu-alabi-08697525/)
