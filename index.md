@@ -52,9 +52,9 @@ For inquiries, send email to [contact@naijacoder.org](mailto:contact@naijacoder.
 * [Alida Monaco](https://www.linkedin.com/in/alida-monaco-4699a482) (Instructor)
 * [Atinuke Adegbile](https://ng.linkedin.com/in/atinuke-adegbile-267542b7) (Head of Local Logistics)
 * [Akachukwu Obi](https://www.linkedin.com/in/aobi)
+* [Zaidat Ibrahim](https://www.linkedin.com/in/zaidati)
 * [Tolu Alabi](https://www.linkedin.com/in/tolu-alabi-08697525/)
 * [Eric Mibuari](https://www.linkedin.com/in/eric-mibuari-bb24044/)
-
 
 ### Legal
 
