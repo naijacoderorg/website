@@ -55,6 +55,7 @@ For inquiries, send email to [contact@naijacoder.org](mailto:contact@naijacoder.
 * [Zaidat Ibrahim](https://www.linkedin.com/in/zaidati)
 * [Tolu Alabi](https://www.linkedin.com/in/tolu-alabi-08697525/)
 * [Eric Mibuari](https://www.linkedin.com/in/eric-mibuari-bb24044/)
+* [Wisdom Omuya](https://www.crunchbase.com/person/wisdom-omuya)
 
 ### Legal
 
