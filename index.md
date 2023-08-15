@@ -29,10 +29,6 @@ The in-person program will run August 7 up to August 18, 2023.
 [addiscoder]: https://www.addiscoder.com/
 
 
-### Funding
-
-Donations accepted here: [gofundme](https://www.gofundme.com/f/help-launch-a-coding-project-in-nigeria).
-
 ### Contact
 
 For inquiries, send email to [contact@naijacoder.org](mailto:contact@naijacoder.org).
