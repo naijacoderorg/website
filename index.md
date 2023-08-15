@@ -8,7 +8,7 @@ The in-person program will run August 7 up to August 18, 2023.
 
 [application form]: https://docs.google.com/forms/d/e/1FAIpQLSeQ4PVc_aLutDv3DeuvkG5QjgxAOYFPOoTmw4nKHHF6uoJWjg/viewform 
 
-### Summer 2023 (Planning in Progress)
+### Summer 2023
 
 * [Syllabus](summer2023/files/syllabus.md)
 * [Additional Resources]
