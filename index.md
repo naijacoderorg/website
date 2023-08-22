@@ -1,17 +1,18 @@
+![NaijaCoder 2023 Banner](https://github.com/naijacoderorg/NaijaCoder/blob/gh-pages/summer2023/files/NaijaCoder_Banner1.jpg?raw=true)
+
+
 ## Overview
 
 
-NaijaCoder is a research and education institute based in the U.S. and Nigeria. One of our major activities is an intensive summer program in Abuja, Nigeria aimed at high schoolers. The program provides free instruction on the basics of algorithms, statistics, and programming.
-
-~~If you are a student who wishes to participate in the program in August 2023, please fill out this [application form].~~
-The in-person program will run August 7 up to August 18, 2023.
-
-[application form]: https://docs.google.com/forms/d/e/1FAIpQLSeQ4PVc_aLutDv3DeuvkG5QjgxAOYFPOoTmw4nKHHF6uoJWjg/viewform 
+NaijaCoder is a research and education institute based in the U.S. and Nigeria. One of our major activities is an intensive summer program in Nigeria aimed at high schoolers. The program provides **free** instruction on the basics of algorithms and computer programming.
 
 ### Summer 2023
 
+The in-person program ran from August 7 up to August 18, 2023. Location: Lifegate Academy in Abuja.
+
 * [Syllabus](summer2023/files/syllabus.md)
 * [Additional Resources]
+* ~~[Application Form](https://docs.google.com/forms/d/e/1FAIpQLSeQ4PVc_aLutDv3DeuvkG5QjgxAOYFPOoTmw4nKHHF6uoJWjg/viewform)~~
 
 [Additional Resources]: https://github.com/naijacoderorg/lectures
 
