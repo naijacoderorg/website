@@ -4,7 +4,17 @@
 ## Overview
 
 
-NaijaCoder is a research and education institute based in the U.S. and Nigeria. One of our major activities is an intensive summer program in Nigeria aimed at high schoolers. The program provides **free** instruction on the basics of algorithms and computer programming.
+NaijaCoder is a research and education institute based in the U.S. and Nigeria. One of our major activities is an intensive summer program in Nigeria aimed at high schoolers. The program provides **free** instruction on the basics of algorithms and computer programming. The next summer program is slated for Summer 2024!
+
+### Contact
+
+For inquiries, send email to [contact@naijacoder.org](mailto:contact@naijacoder.org).
+
+### Social Media
+
+* [Twitter](https://twitter.com/naijacoderorg)
+* [Instagram](https://www.instagram.com/naijacoder/)
+* [LinkedIn](https://www.linkedin.com/company/naijacoder/)
 
 ### Summer 2023
 
@@ -28,18 +38,6 @@ The in-person program ran from August 7 up to August 18, 2023. Location: Lifegat
 [Nigerian Mathematical Society]: https://www.nigerianmathematicalsociety.org/
 [National Mathematical Center, Abuja]: https://nmc.edu.ng/
 [addiscoder]: https://www.addiscoder.com/
-
-
-### Contact
-
-For inquiries, send email to [contact@naijacoder.org](mailto:contact@naijacoder.org).
-
-### Social Media
-
-* [Twitter](https://twitter.com/naijacoderorg) (**new!**)
-* [Instagram](https://www.instagram.com/naijacoder/) (**new!**)
-* [LinkedIn](https://www.linkedin.com/company/naijacoder/) (**new!**)
-* [Facebook](https://www.facebook.com/people/NaijaCoder/100089748270716/) (**new!**)
 
 ### Team
 * [Daniel Alabi](https://www.linkedin.com/in/alabidan/) (President, Instructor)
