@@ -60,7 +60,7 @@ EIN: 88-3205893.
 
 ### Donations
 
-Visit our donations page to become a donor:
+Visit our PayPal donations page to become a donor.
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="XTKYF6AJWXWXY" />
