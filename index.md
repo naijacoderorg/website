@@ -53,6 +53,10 @@ The in-person program ran from August 7 up to August 18, 2023. Location: Lifegat
 * [Eric Mibuari](https://www.linkedin.com/in/eric-mibuari-bb24044/)
 * [Wisdom Omuya](https://www.linkedin.com/in/wisdomomuya)
 
+### Donations
+
+Visit our [donations page](donations.md) to become a donor.
+
 ### Legal
 
 NaijaCoder, Inc. is a registered tax-exempt 501(c)(3).
