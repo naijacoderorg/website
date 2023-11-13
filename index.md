@@ -6,6 +6,10 @@
 
 NaijaCoder is a research and education institute based in the U.S. and Nigeria. One of our major activities is an intensive summer program in Nigeria aimed at high schoolers. The program provides **free** instruction on the basics of algorithms and computer programming. The next summer program is slated for Summer 2024!
 
+The Summer 2024 Application Form (for students) is available [here].
+
+[here]: https://docs.google.com/forms/d/e/1FAIpQLSeFyHnAmFwI7QUpAiSD3PaUY-8dPyDl_SuXG9Nt0j6SpILIUw/viewform
+
 ### Contact
 
 For inquiries, send email to [contact@naijacoder.org](mailto:contact@naijacoder.org).
