@@ -12,7 +12,7 @@ The Summer 2024 Application Form (for students) is available [here].
 
 ### Contact
 
-For inquiries, send email to [contact@naijacoder.org](mailto:contact@naijacoder.org).
+For inquiries, send email to contact[at]naijacoder[dot]org.
 
 ### Social Media
 
