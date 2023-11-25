@@ -48,6 +48,7 @@ The in-person program ran from August 7 up to August 18, 2023. Location: Lifegat
 * [Olalekan Afuye](https://www.linkedin.com/in/olalekan-afuye/) (Vice President, Instructor)
 * [Philip Abel](https://www.linkedin.com/in/abelphilip/) (Secretary, Instructor)
 * [Ekene Ezeunala](https://www.linkedin.com/in/ekene-ezeunala/) (University Representative)
+* [Victory Yinka-Banjo](https://www.linkedin.com/in/victory-yinka-banjo) (University Representative)
 * [Alida Monaco](https://www.linkedin.com/in/alida-monaco-4699a482) (Instructor)
 * [Atinuke Adegbile](https://ng.linkedin.com/in/atinuke-adegbile-267542b7) (Head of Local Logistics)
 * [Joshua Nwozor](https://www.linkedin.com/in/joshuatochukwunwozor)
