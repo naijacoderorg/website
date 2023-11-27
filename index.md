@@ -36,12 +36,10 @@ The in-person program ran from August 7 up to August 18, 2023. Location: Lifegat
 * [Syllabus]
 * [Nigerian Mathematical Society]
 * [National Mathematical Center, Abuja]
-* [addiscoder]
 
 [Syllabus]: summer2022/files/syllabus.md
 [Nigerian Mathematical Society]: https://www.nigerianmathematicalsociety.org/
 [National Mathematical Center, Abuja]: https://nmc.edu.ng/
-[addiscoder]: https://www.addiscoder.com/
 
 ### Team
 * [Daniel Alabi](https://www.linkedin.com/in/alabidan/) (President, Instructor)
@@ -54,7 +52,6 @@ The in-person program ran from August 7 up to August 18, 2023. Location: Lifegat
 * [Joshua Nwozor](https://www.linkedin.com/in/joshuatochukwunwozor)
 * [Akachukwu Obi](https://www.linkedin.com/in/aobi)
 * [Zaidat Ibrahim](https://www.linkedin.com/in/zaidati)
-* [Eric Mibuari](https://www.linkedin.com/in/eric-mibuari-bb24044/)
 * [Wisdom Omuya](https://www.linkedin.com/in/wisdomomuya)
 
 ### Legal
