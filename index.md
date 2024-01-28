@@ -22,7 +22,7 @@ The Summer 2024 Application Form (for students) is available [here].
 
 [here]: https://docs.google.com/forms/d/e/1FAIpQLSeFyHnAmFwI7QUpAiSD3PaUY-8dPyDl_SuXG9Nt0j6SpILIUw/viewform
 
-The Lagos camp is in collaboration with the [AirLab] of the University of Lagos. The camp will take place from the 19th of August to the 30th of August at the AI & Robotics Labs in the University of Lagos. The Abuja camp will take place at the Regina Pacis College in Abuja.
+The Lagos camp is in collaboration with the [AirLab] of the University of Lagos. The camp will take place from the 19th of August to the 30th of August at the AI & Robotics Labs in the University of Lagos. The Abuja camp will take place at the Regina Pacis College in Abuja from the 12th of August to the 23rd of August.
 
 [AirLab]: http://airol.unilag.edu.ng/
 
