@@ -48,6 +48,7 @@ The in-person program ran from August 7 up to August 18, 2023. Location: Lifegat
 [National Mathematical Center, Abuja]: https://nmc.edu.ng/
 
 ### Team
+* [Zaidat Ibrahim](https://www.linkedin.com/in/zaidati) (Head of Northern Nigeria affairs for NaijaCoder) 
 * [Daniel Alabi](https://www.linkedin.com/in/alabidan/) (President, Instructor)
 * [Olalekan Afuye](https://www.linkedin.com/in/olalekan-afuye/) (Vice President, Instructor)
 * [Philip Abel](https://www.linkedin.com/in/abelphilip/) (Secretary, Instructor)
@@ -58,7 +59,6 @@ The in-person program ran from August 7 up to August 18, 2023. Location: Lifegat
 * [Atinuke Adegbile](https://ng.linkedin.com/in/atinuke-adegbile-267542b7) (Head of Local Logistics)
 * [Joshua Nwozor](https://www.linkedin.com/in/joshuatochukwunwozor)
 * [Akachukwu Obi](https://www.linkedin.com/in/aobi)
-* [Zaidat Ibrahim](https://www.linkedin.com/in/zaidati)
 * [Hamidah Oderinwale](https://ca.linkedin.com/in/hamidaho)
 
 ### Legal
