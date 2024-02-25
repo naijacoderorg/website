@@ -61,6 +61,7 @@ The in-person program ran from August 7 up to August 18, 2023. Location: Lifegat
 * [Joshua Nwozor](https://www.linkedin.com/in/joshuatochukwunwozor)
 * [Akachukwu Obi](https://www.linkedin.com/in/aobi)
 * [Hamidah Oderinwale](https://ca.linkedin.com/in/hamidaho)
+* [Joseph Ekpenyong](https://www.linkedin.com/in/joejekpenyong)
 
 ### Legal
 
