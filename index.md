@@ -3,7 +3,6 @@
 
 ## Overview
 
-
 NaijaCoder is a research and education institute based in the U.S. and Nigeria. One of our major activities is an intensive summer program in Nigeria aimed at high schoolers. The program provides **free** instruction on the basics of algorithms and computer programming. The next summer program is slated for Summer 2024!
 
 ### Contact
