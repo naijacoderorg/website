@@ -67,9 +67,12 @@ The in-person program ran from August 7 up to August 18, 2023. Location: Lifegat
 NaijaCoder, Inc. is a registered tax-exempt 501(c)(3).
 EIN: 88-3205893.
 
-### Donations
+### Our Supporters
 
-Visit our PayPal donations page to become a donor.
+![funders_2023_2024](https://github.com/naijacoderorg/NaijaCoder/assets/928460/35dcdcba-fe92-4df0-89a2-e75c33fe952a)
+
+
+You can visit our PayPal donations page to become a donor.
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="XTKYF6AJWXWXY" />
