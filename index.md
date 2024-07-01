@@ -62,6 +62,9 @@ The in-person program ran from August 7 up to August 18, 2023. Location: Lifegat
 * [Hamidah Oderinwale](https://ca.linkedin.com/in/hamidaho)
 * [Joseph Ekpenyong](https://www.linkedin.com/in/joejekpenyong)
 
+### Advisors
+* [Jelani Nelson](https://en.wikipedia.org/wiki/Jelani_Nelson) (Lead Advisor)
+
 ### Legal
 
 NaijaCoder, Inc. is a registered tax-exempt 501(c)(3).
