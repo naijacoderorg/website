@@ -49,18 +49,18 @@ The in-person program ran from August 7 up to August 18, 2023. Location: Lifegat
 
 ### Team
 * [Daniel Alabi](https://www.linkedin.com/in/alabidan/) (President, Instructor)
-* [Olalekan Afuye](https://www.linkedin.com/in/olalekan-afuye/) (Vice President, Instructor)
-* [Zaidat Ibrahim](https://www.linkedin.com/in/zaidati) (Head of Northern Nigeria affairs) 
+* [Olalekan Afuye](https://www.linkedin.com/in/olalekan-afuye/) (Vice President)
+* [Zaidat Ibrahim](https://www.linkedin.com/in/zaidati) (Head of Northern Nigeria Affairs)
+* [Victory Yinka-Banjo](https://www.linkedin.com/in/victory-yinka-banjo) (Head of Southern Nigeria Affairs)
 * [Philip Abel](https://www.linkedin.com/in/abelphilip/) (Secretary, Instructor)
 * [Alida Monaco](https://www.linkedin.com/in/alida-monaco-4699a482) (Instructor)
 * [Ojima Abraham](https://www.linkedin.com/in/ojima-abraham/) (Instructor)
-* [Ekene Ezeunala](https://www.linkedin.com/in/ekene-ezeunala/) (University Representative)
-* [Victory Yinka-Banjo](https://www.linkedin.com/in/victory-yinka-banjo) (University Representative)
-* [Atinuke Adegbile](https://ng.linkedin.com/in/atinuke-adegbile-267542b7) (Head of Local Logistics)
+* [Atinuke Adegbile](https://ng.linkedin.com/in/atinuke-adegbile-267542b7) (Head of Local Logistics in Abuja)
+* [Hamidah Oderinwale](https://ca.linkedin.com/in/hamidaho) (Instructor)
 * [Joshua Nwozor](https://www.linkedin.com/in/joshuatochukwunwozor)
 * [Akachukwu Obi](https://www.linkedin.com/in/aobi)
-* [Hamidah Oderinwale](https://ca.linkedin.com/in/hamidaho)
 * [Joseph Ekpenyong](https://www.linkedin.com/in/joejekpenyong)
+* [Ekene Ezeunala](https://www.linkedin.com/in/ekene-ezeunala/) (University Representative)
 
 ### Advisors
 * [Jelani Nelson](https://en.wikipedia.org/wiki/Jelani_Nelson) (Lead Advisor)
