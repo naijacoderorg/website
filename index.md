@@ -57,7 +57,7 @@ The in-person program ran from August 7 up to August 18, 2023. Location: Lifegat
 * [Ojima Abraham](https://www.linkedin.com/in/ojima-abraham/) (Instructor)
 * [Atinuke Adegbile](https://ng.linkedin.com/in/atinuke-adegbile-267542b7) (Head of Local Logistics in Abuja)
 * [Hamidah Oderinwale](https://ca.linkedin.com/in/hamidaho) (Instructor)
-* [Eric Mibuari](https://www.linkedin.com/in/eric-mibuari-bb24044/) (Instuctor)
+* [Eric Mibuari](https://www.linkedin.com/in/eric-mibuari-bb24044/) (Instructor)
 * [Joshua Nwozor](https://www.linkedin.com/in/joshuatochukwunwozor)
 * [Akachukwu Obi](https://www.linkedin.com/in/aobi)
 * [Joseph Ekpenyong](https://www.linkedin.com/in/joejekpenyong)
